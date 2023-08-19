@@ -1,2 +1,2 @@
-# Designing Algorithms using different techniques using Java
+# Designing Algorithms using different techniques in Java
 Lab programs using Java
